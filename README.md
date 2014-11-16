@@ -3,7 +3,8 @@ MotionEventTest
   
 ###Reproduce steps  
 1. Run the sample.  
-2. Long click with three finger.  
+2. Long click with three finger,   
+or touch back and forth with two finger and three finger. (press down a finger down, press down another one, release one finger and another hold steady.)
 3. Exception throws.  
   
 ###Exception Sample  
