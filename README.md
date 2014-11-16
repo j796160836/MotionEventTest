@@ -54,3 +54,6 @@ java.lang.IllegalStateException: Could not find pointer '1' in reference point: 
 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:602)  
 	at dalvik.system.NativeStart.main(Native Method)  
 
+####Reported issues  
+
+https://code.google.com/p/google-glass-api/issues/detail?can=2&start=0&num=100&q=&colspec=ID%20Type%20Status%20Priority%20Owner%20Component%20Summary&groupby=&sort=&id=632
